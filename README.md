@@ -12,7 +12,7 @@
 <div><h1>Hey There</h1> <h4> Thanks for coming to my Github Profile</h4></div>
 
 
-### :man_technologist: About Me :
+### About Me :
 
 - :telescope: I’m working as a Full Stack Web Developer and contributing to frontend and backend for building web applications.
 
