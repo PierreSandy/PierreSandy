@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=PierreSandy&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hey there - Thanks for Visting my GitHub Profile!
+  Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
