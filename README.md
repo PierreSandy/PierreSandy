@@ -9,11 +9,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=PierreSandy&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Hey There!
-</h1>
-
-<h5>Thanks for coming to my Github Profile</h5>
+<div><h1>Hey There</h1></div>
 
 
 ### :man_technologist: About Me :
