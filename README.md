@@ -16,11 +16,11 @@
 
 - :telescope: I’m working as a Full Stack Web Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Currenlty Learning AWS Cloud, MongoDB, Docker
+- :seedling: Currenlty Learning AWS Cloud, MongoDB, Docker.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👥: I'm Looking to collaborate on more open source projects.
 
 
 
