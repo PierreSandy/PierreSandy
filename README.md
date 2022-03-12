@@ -20,7 +20,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 👥: I'm Looking to collaborate on more open source projects.
+- 👥 I'm Looking to collaborate on more open source projects.
 
 
 
