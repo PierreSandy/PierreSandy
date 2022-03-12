@@ -16,7 +16,7 @@
 
 - :telescope: I’m working as a Full Stack Web Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currenlty Learning AWS Cloud, 
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
