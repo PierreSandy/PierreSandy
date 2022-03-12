@@ -9,7 +9,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=PierreSandy&style=flat-square&color=blue" alt=""/>
 
-<div><h1>Hey There</h1> <h4> This is the place where I opensource stuff and break things</h4></div>
+<div><h1>Hey There!</h1> <h4> This is the place where I opensource stuff and break things</h4></div>
 
 
 ### About Me :
