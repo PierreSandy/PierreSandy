@@ -18,7 +18,7 @@
 
 -  Currenlty Learning AWS Cloud, MongoDB, Docker.
 
--  Also Learning Go Unit Testing Mock Functions Monkey Patching
+-  Also Learning Go Unit Testing. Mock Functions, Monkey Patching
 
 - I'm Looking to collaborate on more open source projects.
 
