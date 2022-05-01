@@ -17,7 +17,8 @@
 - I’m working as a Full Stack Web Developer and contributing to frontend and backend for building web applications.
 
 -  Currenlty Learning AWS Cloud, MongoDB, Docker.
--  Also Learning Go Unit Testing (Mock Functions :( )
+
+-  Also Learning Go Unit Testing Mock Functions Monkey Patching
 
 - I'm Looking to collaborate on more open source projects.
 
